@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Trust</string>
+
+    <!-- BUTTONS -->
+    <string name="login_button_text">Ingresar</string>
+    <string name="login_register_button">¿No tienes cuenta? &lt;b&gt;Regístrate aquí&lt;/b&gt;</string>
+    <string name="login_change_account" formatted="false">No soy &lt;b&gt;%s&lt;/b&gt;</string>
+    <string name="login_input_email_hint">Correo electrónico</string>
+    <string name="login_input_password_hint">Contraseña</string>
+    <string name="login_password_forget">¿Olvidaste tu contraseña?</string>
+    <string name="phone_number_code_help">+56 9</string>
+    <string name="input_phone_hint">Ingresar número</string>
+    <string name="phone_verification_description">Te enviaremos un SMS para verificar tu número telefónico</string>
+    <string name="verified_by">verified by</string>
+</resources>
